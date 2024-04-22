@@ -1,11 +1,11 @@
 [
   {
-    "image": "https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F3.bp.blogspot.com%2F-scWjoJGdeSg%2FVHzlm4cQ8PI%2FAAAAAAAAAEY%2Fx5I6qYMctg0%2Fs1600%2F10380729_750152061674185_2071293326888975751_o.jpg&f=1&nofb=1&ipt=e517b1306a78779f70ded7b098fef7fbbd40275d47bfa7ce807963b92e79ed77&ipo=images",
+    "image": "https://github.com/J4DR3Z/Coltricapin_react/blob/12aa7826e7e6c716bcafb0bf23fc2a85efad2a63/post_files/1.jpg",
     "title": "Título 1",
     "description": "Descripción 1"
   },
   {
-    "image": "./src/posts/2.jpeg",
+    "image": "https://github.com/J4DR3Z/Coltricapin_react/blob/12aa7826e7e6c716bcafb0bf23fc2a85efad2a63/post_files/2.jpeg",
     "title": "Título 2",
     "description": "Descripción 2"
   }
